@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Get Free Gift Cards</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      color: white;
+      text-align: center;
+      animation: backgroundShift 10s ease infinite;
+      background: linear-gradient(270deg, #ff416c, #ff4b2b, #1e90ff, #00bfff);
+      background-size: 800% 800%;
+    }
+
+    @keyframes backgroundShift {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
+
+    h1 {
+      margin: 20px 0 5px;
+      font-size: 28px;
+    }
+
+    .timer {
+      font-size: 20px;
+      margin-bottom: 15px;
+      padding: 10px 20px;
+      display: inline-block;
+      background: #222c50;
+      border-radius: 10px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 15px;
+      max-width: 1100px;
+      margin: 20px auto;
+      padding: 10px;
+    }
+
+    .iconimg {
+      width: 100%;
+      max-width: 110px;
+      border-radius: 10px;
+      transition: transform 0.2s;
+      cursor: pointer;
+    }
+
+    .iconimg:hover {
+      transform: scale(1.07);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎁 Choose Your Gift Card</h1>
+  <div class="timer" id="countdown">EXPIRE IN 40:00</div>
+
+  <div class="grid">
+<a href="https://filestrue.com/1855415" target="_blank"><img src="https://i.imgur.com/VO61lqg.png" class="iconimg" /></a>
+<a href="https://filestrue.com/1855415" target="_blank"><img src="https://i.imgur.com/mQtKrkR.png" class="iconimg" /></a>
+<a href="https://installyourfiles.com/1852163" target="_blank"><img src="https://i.imgur.com/V2xe8PR.png" class="iconimg" /></a>
+<a href="https://filestrue.com/1855415" target="_blank"><img src="https://i.imgur.com/PxYOWSh.png" class="iconimg" /></a>
+<a href="https://nx2bs.com/csl?sid=1&aid=17225" target="_blank"><img src="https://i.imgur.com/xuux5mM.png" class="iconimg" /></a>
+<a href="https://installyourfiles.com/1852163" target="_blank"><img src="https://i.imgur.com/7k8to9N.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/3Dcwf5Z.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/B4BRIhR.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/zdjLaWv.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/BAvjmff.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/EStHsTw.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/YypoD7E.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/qNlaCIr.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/lM0JdjU.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/vqwtXKf.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/3FyNMST.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/hsswmGI.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/cWc1Do9.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/wA6l2sC.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/PbQiHUr.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/lYl1QUy.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/eQrl1Np.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/QOs50qD.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/6YnuyVh.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/qGOpy5A.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/S8g37Ux.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/B76R1px.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/GpMe1YE.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/K2c4anF.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/HpncR7M.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/AtBj8NF.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/sbfCnQm.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/0WV9Hxu.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/XCJOlCu.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/O4Ln778.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/mYImfIH.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/OwocroC.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/KEpxxjU.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/WSIR8zg.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/YV0Vt6T.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/vBdoYkx.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/iYRLi3J.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/KPi8oj6.png" class="iconimg" /></a>
+<a href="https://hubverify.com/cl/?o=6892226186d01" target="_blank"><img src="https://i.imgur.com/4d82gXh.png" class="iconimg" /></a>
+  </div>
+
+  <script>
+    // Countdown timer: 40 minutes
+    let countdownMinutes = 40;
+    let countdown = countdownMinutes * 60;
+
+    const countdownElement = document.getElementById("countdown");
+
+    function updateTimer() {
+      const minutes = Math.floor(countdown / 60);
+      const seconds = countdown % 60;
+      countdownElement.textContent = `EXPIRE IN ${minutes}:${seconds.toString().padStart(2, '0')}`;
+      countdown--;
+      if (countdown < 0) {
+        clearInterval(timer);
+        countdownElement.textContent = "EXPIRED";
+      }
+    }
+
+    const timer = setInterval(updateTimer, 1000);
+    updateTimer();
+  </script>
+
+</body>
+</html>
